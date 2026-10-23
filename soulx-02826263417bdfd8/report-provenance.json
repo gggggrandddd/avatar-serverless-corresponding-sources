@@ -1,0 +1,7 @@
+{
+  "image_id": "sha256:02826263417bdfd8fb4492a1c422c08975082d17786def813b56dabd00dbcb24",
+  "reports": {
+    "licenses.json": "3f3cd74a4f6419d4976a7e0ce3e8880d1fd8ffa3597bffcf98f7087874db60f6",
+    "sbom.cdx.json": "0ac8962d19d23eced3d37141e20f92bf3a957a6cfceeccb9c4d945a1ea83d1b7"
+  }
+}
